@@ -9,7 +9,8 @@
 	url = https://github.com/obsproject/obs-amd-encoder.git
 [submodule "plugins/obs-browser"]
 	path = plugins/obs-browser
-	url = https://github.com/obsproject/obs-browser.git
+	url = https://github.com/IainCole/obs-browser.git
+	branch = ic_24_linux_support
 [submodule "plugins/obs-vst"]
 	path = plugins/obs-vst
 	url = https://github.com/obsproject/obs-vst.git
